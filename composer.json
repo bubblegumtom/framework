@@ -34,7 +34,7 @@
         "options": {
             "type": "vcs",
             "url": "https://github.com/bubblegumtom/options"
-        },
+        }
     },
     "require": {
         "php": "^7.3|^8.0",
